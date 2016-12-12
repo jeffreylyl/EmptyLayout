@@ -1,4 +1,4 @@
-package com.app.emptylayout;
+package com.app.demo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,6 +6,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.view.animation.LinearInterpolator;
 
+import com.app.emptylayout.EmptyLayout;
 
 
 public class MainActivity extends AppCompatActivity {

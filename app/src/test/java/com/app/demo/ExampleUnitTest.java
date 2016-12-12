@@ -1,4 +1,4 @@
-package com.app.emptylayout;
+package com.app.demo;
 
 import org.junit.Test;
 
