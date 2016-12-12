@@ -7,13 +7,13 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.jeff.app.MainActivity">
+    tools:context="com.app.demo.MainActivity">
 
 
-    <com.jeff.emptylayout.EmptyLayout
+    <com.app.emptylayout.EmptyLayout
         android:id="@+id/emptyLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-    </com.jeff.emptylayout.EmptyLayout>
+    </com.app.emptylayout.EmptyLayout>
 </RelativeLayout>
