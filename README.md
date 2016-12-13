@@ -18,5 +18,5 @@ allprojects {<br/>
 
 ###
 	dependencies {
-	        compile 'com.github.jeffreylyl:EmptyLayout:0.1'
+	        compile 'com.github.jeffreylyl:EmptyLayout:0.2'
 	}
